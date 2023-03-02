@@ -3,7 +3,7 @@
  * @version 0.1.0
  * @description Detects phishing scams in messages and sends a toast. On shutdown, sends alert. On startup, sends changelog alert.
  * @author kno
- * @source https://github.com/MDev123/betterdiscord-scamblock/blob/main/
+ * @source https://github.com/MDev123/betterdiscord-scamblock/
  * @updateUrl https://github.com/MDev123/betterdiscord-scamblock/blob/main/antiscam.plugin.js
  */
 
